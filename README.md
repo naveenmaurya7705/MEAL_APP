@@ -1,5 +1,4 @@
 #MEAL APP
-
 Meal App is a web application that allows users to search for meals and view their details. Users can also add meals to their favorites list and access them later.
 
 #FEATURES
@@ -46,5 +45,6 @@ Thanks to Bootstrap and Font Awesome for their amazing tools and resources.
 Thanks to the open-source community for their continuous support and inspiration.
 
 #CONTACT
+
 Feel free to customize and modify the project according to your needs.
 If you have any questions, suggestions, or feedback, please feel free to contact me at naveenmaurya7705@gmail.com .
