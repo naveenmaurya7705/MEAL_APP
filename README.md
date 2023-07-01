@@ -1,4 +1,5 @@
 #MEAL APP
+
 Meal App is a web application that allows users to search for meals and view their details. Users can also add meals to their favorites list and access them later.
 
 #FEATURES
