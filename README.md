@@ -76,7 +76,7 @@ TheMeal API: https://www.themealdb.com/api.php
 `#CONTACT`
 
 `@Author`
-Naveen Maurya
+`Naveen Maurya`
 
 Email: naveenmaurya7705@gmail.com
 Feel free to customize and modify the project according to your needs.
