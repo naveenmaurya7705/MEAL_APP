@@ -1,8 +1,8 @@
-#Meal App 
+`#Meal App `
 
 MEAL APP is a web application that allows users to search for meals using The Meal API view their details and store their favorite meals. The app is built using vanilla JavaScript and utilizes the Bootstrap CSS framework for styling. Users can also add meals to their favorites list and access them later.
 
-#FEATURES
+`#FEATURES`
 
 `#Home Page`
 1. Search any meal from the API and display the search results on the frontend.
@@ -24,7 +24,7 @@ MEAL APP is a web application that allows users to search for meals using The Me
 6. Add/remove from favorites: Users can add or remove meals from their favorites list by clicking on the heart-shaped button on the meal card.
 7. Favorites list: Users can access their favorites list by clicking on the favorites button in the navigation bar. The favorites list shows all the meals that the user has added to their favorites.
 
-#TECHNOLOGY USED:
+`#TECHNOLOGY USED:`
 
 HTML: Markup language for creating the structure of the web pages.
 CSS: Styling language for designing the visual layout and appearance of the web pages.
@@ -45,7 +45,8 @@ TheMeal API: https://www.themealdb.com/api.php
 6. Click on the heart-shaped button in the navbar to open the "My Favorite Meals" page and view your favorite meals.
 7. On the "My Favorite Meals" page, click on the "Remove from favorites" button to remove a meal from your favorites list.
 `Note:` The app uses the localStorage API to store the favorite meals list, so the list will be persistent even after closing or refreshing the browser.
-#INSTALLATION:
+
+`#INSTALLATION:`
 
 Clone the repository or download the project files.
 Copy code
@@ -53,26 +54,26 @@ gitclone https://github.com/your-username/meal-app.git
 Open the project in a code editor.
 Open the index.html file in a web browser.
 
-#USES:
+`#USES:`
 Open the Meal App in a web browser.
 Use the search bar to enter a keyword and search for meals.
 Click on a meal card to view its details.
 To add or remove a meal from the favorites list, click on the heart-shaped button on the meal card.
 To view the favorites list, click on the favorites button in the navigation bar.
 
-#CREADIT
+`#CREADIT`
 
 TheMealDB: TheMealDB API was used to retrieve meal data. Visit their website at https://www.themealdb.com for more information.
 Bootstrap: The Bootstrap framework was used for styling the web pages. Visit their website at https://getbootstrap.com for more information.
 Font Awesome: The Font Awesome library was used for adding icons to the user interface. Visit their website at https://fontawesome.com for more information.
 
-#ACKNOWLEDGMENT
+`#ACKNOWLEDGMENT`
 Special thanks to the creators and contributors of the technologies and libraries used in this project.
 Thanks to TheMealDB for providing the meal data API.
 Thanks to Bootstrap and Font Awesome for their amazing tools and resources.
 Thanks to the open-source community for their continuous support and inspiration.
 
-#CONTACT
+`#CONTACT`
 
 `@Author`
 Naveen Maurya
